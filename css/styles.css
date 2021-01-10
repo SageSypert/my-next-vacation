@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  color:blueviolet;
+  font-weight:bold;
+}
+
+.card-title {
+  color:cornflowerblue;
+}
+
+.card-text {
+  color:rgb(99, 101, 105)
+}
+
